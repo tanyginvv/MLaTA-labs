@@ -1,0 +1,20 @@
+﻿  wordsplay.cpp
+C:\Users\79027\Desktop\ooplabs\wordsplay\wordsplay\wordsplay.cpp(50,29): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,48): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Users\79027\Desktop\ooplabs\wordsplay\wordsplay\wordsplay.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,std::string>::pair<unsigned __int64,std::string&,0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::string &
+          ]
+C:\Users\79027\Desktop\ooplabs\wordsplay\wordsplay\wordsplay.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,std::string>::pair<unsigned __int64,std::string&,0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::string &
+          ]
+  wordsplay.vcxproj -> C:\Users\79027\Desktop\ooplabs\wordsplay\x64\Debug\wordsplay.exe

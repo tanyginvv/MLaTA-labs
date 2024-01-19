@@ -1,0 +1,3 @@
+﻿  progressia.cpp
+C:\Users\79027\Desktop\ooplabs\progressia\progressia\progressia.cpp(48,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  progressia.vcxproj -> C:\Users\79027\Desktop\ooplabs\progressia\x64\Debug\progressia.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d77ad12-c2f5-4d09-b8cb-39ee601f603f": {
+      "ProjectGuid": "1d77ad12-c2f5-4d09-b8cb-39ee601f603f",
+      "DisplayName": "alg_rabina-karpa",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

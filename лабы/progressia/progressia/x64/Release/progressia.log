@@ -1,0 +1,8 @@
+﻿  progressia.cpp
+C:\Users\79027\Desktop\ooplabs\progressia\progressia\progressia.cpp(53,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  122 of 255 functions (47.8%) were compiled, the rest were copied from previous compilation.
+    111 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  progressia.vcxproj -> C:\Users\79027\Desktop\ooplabs\progressia\x64\Release\progressia.exe

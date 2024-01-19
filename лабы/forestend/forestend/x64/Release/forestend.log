@@ -1,0 +1,11 @@
+﻿  forestend.cpp
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(49,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(50,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(63,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(64,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  3 of 336 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  forestend.vcxproj -> C:\Users\79027\Desktop\ooplabs\forestend\x64\Release\forestend.exe

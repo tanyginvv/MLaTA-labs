@@ -1,0 +1,3 @@
+﻿  usilitely.cpp
+C:\Users\79027\Desktop\ooplabs\mlata\практика\usilitely\usilitely.cpp(31,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  usilitely.vcxproj -> C:\Users\79027\Desktop\ooplabs\mlata\практика\usilitely\x64\Debug\usilitely.exe

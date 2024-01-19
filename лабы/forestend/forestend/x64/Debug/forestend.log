@@ -1,0 +1,6 @@
+﻿  forestend.cpp
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(28,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(29,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(42,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\ooplabs\forestend\forestend\forestend.cpp(43,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  forestend.vcxproj -> C:\Users\79027\Desktop\ooplabs\forestend\x64\Debug\forestend.exe
